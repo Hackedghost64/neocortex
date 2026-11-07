@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.devrith/
+theoritcal-devrith
+brain_store/
+*.db
+*.safetensors
+.DS_Store
